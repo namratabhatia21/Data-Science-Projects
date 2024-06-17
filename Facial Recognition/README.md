@@ -9,6 +9,7 @@ In this project, I developed a facial recognition system to recognize classmates
 Face recognition problems typically fall into two categories:
 
 **Face Verification**: Building a model to distinguish your face from others. This is a binary classification problem.
+
 **Face Recognition**: Building a model to identify multiple faces. This is a multi-class classification problem.
 
 ### Scenario
