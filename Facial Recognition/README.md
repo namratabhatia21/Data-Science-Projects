@@ -18,6 +18,7 @@ Imagine a system for the Emlyon building where we want to provide face recogniti
 ### Project Phases
 Face Detection:
 In the first phase, I prepared the datasets by using the **MTCNN** model to create cropped face images from raw images and stored them in new directories.
+
 Face Recognition:
 In the second phase, I modified the classifier head of **FaceNet** and trained it on the cropped face images.
 
