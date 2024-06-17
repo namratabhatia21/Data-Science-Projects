@@ -1,4 +1,4 @@
-# Research Assistant Project: Utilizing Advanced AI Models
+# Stock Market Price Predictions with R
 
 This project explores the use of machine learning to predict stock market movements using R. The objective is to develop a model to predict future stock prices based on historical data. The project utilizes historical stock price data, potentially including features like opening price, closing price, volume, and technical indicators.
 Methodology:
